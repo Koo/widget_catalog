@@ -8,6 +8,7 @@ import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.database.MatrixCursor;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
@@ -35,7 +36,8 @@ public class CatalogActivity extends ListActivity {
 			try {
 				startActivity(intent);
 			} catch (ActivityNotFoundException e) {
-				Toast.makeText(CatalogActivity.this, "activity [" + intent.toString() + "] not found", Toast.LENGTH_SHORT).show();
+				Log.e("CatalogActivity", e.getLocalizedMessage(), e);
+				Toast.makeText(CatalogActivity.this, "activity [" + intent.toString() + "] not found", Toast.LENGTH_LONG).show();
 			}
 		}
 
