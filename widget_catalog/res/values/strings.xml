@@ -4,4 +4,7 @@
     <string name="app_name">Widget Catalog</string>
 <string name="edit_text_label">Hello TextView!!</string>
 <string name="gallery">Test!!</string>
+<string name="text_switcher_01">A</string>
+<string name="text_switcher_02">X</string>
+<string name="text_switcher_button">変更</string>
 </resources>

@@ -8,6 +8,10 @@
 <item>Gallery</item>
 <item>gallery activity example</item>
 <item>GridView</item>
-<item>Grid view example</item>
+<item>grid view example</item>
+<item>TabWidget</item>
+<item>tab widget example</item>
+<item>TextSwitcher</item>
+<item>text switcher activity</item>
 </string-array>
 </resources>
