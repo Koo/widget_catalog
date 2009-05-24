@@ -6,5 +6,5 @@
     >
 <TextView  
     android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" android:text="@string/edit_text_label"/>
+    android:layout_height="wrap_content" android:text="@string/edit_text_label" android:textSize="36px" />
 </LinearLayout>

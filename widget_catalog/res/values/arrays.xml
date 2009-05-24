@@ -13,5 +13,7 @@
 <item>tab widget example</item>
 <item>TextSwitcher</item>
 <item>text switcher activity</item>
+<item>TimePicker</item>
+<item>time picker example</item>
 </string-array>
 </resources>
