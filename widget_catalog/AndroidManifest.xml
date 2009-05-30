@@ -41,6 +41,9 @@
         <activity android:name=".ZoomControlsActivity"
                   android:label="@string/app_name">
         </activity>
+        <activity android:name=".ImageSwitcherActivity"
+                  android:label="@string/app_name">
+        </activity>
     </application>
     <uses-sdk android:minSdkVersion="3" />
 </manifest> 

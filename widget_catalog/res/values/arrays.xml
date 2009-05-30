@@ -21,6 +21,8 @@
 <item>two line list item example</item>
 <item>ZoomControls</item>
 <item>zoom control example</item>
+<item>ImageSwitcher</item>
+<item>image switcher example</item>
 </string-array>
 <string-array name="title_list"><item>Title1</item>
 <item>Title2</item>
