@@ -15,5 +15,21 @@
 <item>text switcher activity</item>
 <item>TimePicker</item>
 <item>time picker example</item>
+<item>ToggleButton</item>
+<item>toggle button example</item>
+<item>TwoLineListItem</item>
+<item>two line list item example</item>
+<item>ZoomControls</item>
+<item>zoom control example</item>
+</string-array>
+<string-array name="title_list"><item>Title1</item>
+<item>Title2</item>
+<item>Title3</item>
+<item>Title4</item>
+</string-array>
+<string-array name="value_list"><item>value1</item>
+<item>value2</item>
+<item>value3</item>
+<item>value4</item>
 </string-array>
 </resources>
